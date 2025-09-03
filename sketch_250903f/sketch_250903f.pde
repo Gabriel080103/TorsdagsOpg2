@@ -5,7 +5,7 @@ size(400,400);
 }
 void draw(){
   
-for (int i=0; i<=20; i=i+1){
+for (int i=0; i<=20; i=i+2){
 
 println(i);
 }
